@@ -1,6 +1,9 @@
 # sql-normalization
 End-to-end SQL project demonstrating data normalization (1NF–3NF), dimensional modeling, and OLAP cube design in SSAS.
 # SQL Normalization & OLAP Data Warehouse Project
+<p align="center">
+  <img src="schema.png" alt="ERD & Star Schema" width="900">
+</p>
 ![schema](https://github.com/alishaheb/sql-normalization/blob/7cf9b0ec8ce6ea096d71dc72b892162c77c75d56/schema.png)
 sql-normalization-and-olap-project/
 ├── README.md
